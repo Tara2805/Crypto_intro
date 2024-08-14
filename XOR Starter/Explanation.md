@@ -1,0 +1,5 @@
+- ord(char): Converts each character to its corresponding Unicode integer.
+- ord(char) ^ 13: Performs the XOR operation with the integer 13.
+- chr(result): Converts the resulting integer back to a character.
+- ''.join(...): Joins the characters back into a string.
+- f"crypto{{{new_string}}}": Formats the final result as required.

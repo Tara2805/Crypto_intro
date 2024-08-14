@@ -1,0 +1,3 @@
+- Hex to Bytes: bytes.fromhex(hex_string) converts the hexadecimal string to a byte array.
+- Bytes to Base64: base64.b64encode(byte_data) encodes the byte array to Base64.
+- Bytes to String: .decode('utf-8') converts the Base64 byte data to a UTF-8 string.
